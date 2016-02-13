@@ -6,6 +6,12 @@
 明日から1週間で英語とアラビア語とロシア語と中国語に対応してくれと言われた場合のロールプレイング。TaptripとDroidKaigiのアプリを例に、基本的にコードを見せながら解説していく。
 
 
+# 話さないこと
+* テストの話
+* ジェンダーの違いなど言語仕様の細かい話
+* サーバーを含めた全体の設計が関わる話
+
+
 # 見出し
 
 ### タイトル
@@ -37,6 +43,7 @@
 * Q. strings.xmlのソート
 * Q. translation editor
 * Q. 指定したlocaleのstringsを取得する方法は？
+* Q. 共通化すべきstringsは？ [ref](http://qiita.com/eggmobile/items/95062a44dba3d63d43da)
 
 
 ### 翻訳する
@@ -51,6 +58,7 @@
 
 ### 数値の複数形に対応する
 * 数字の修正（複数形の対応）
+* カンマ、ピリオドなど [ref](http://qiita.com/aqubi/items/36e24c2896321cd6df0f)
 
 * Q. 複数形が必要になる言語は？
 
@@ -76,7 +84,7 @@
 
 
 ### 細かいデザインを調整する
-* 言語の長さの違い（改行？ellipsis？）
+* 言語の長さの違い（改行？ellipsis？） [ref](http://qiita.com/hachi8833/items/4666638e930de65dcdef)
 * マルチバイト文字の行間
 
 * Q. いいやり方は？CustomView？DataBinding？
