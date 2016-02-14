@@ -10,17 +10,21 @@
 * テストの話
 * ジェンダーの違いなど言語仕様の細かい話
 * サーバーを含めた全体の設計が関わる話
+* API17未満のRTL対応
 
 
 # 見出し
 
 ### タイトル
 * 17カ国の多言語対応
+* 株式会社奇兵隊kiheitai
 
 
 ### 自己紹介
 * GitHubの写真
 * Taptripの説明
+
+* H. よく「何ヶ国語話せるんですか？」と聞かれるけど、日本語だけ。英語も危ういので頑張ってる。
 
 
 ### キャッチ
@@ -33,7 +37,8 @@
 * アジェンダ
 
 
-### 翻訳ファイルをわける
+
+### [基本] 1. 翻訳ファイルをわけよう
 * `values/strings.xml` に分ける
 * デフォルトの言語はmanifestかgradleで指定する（推奨はen）
 * `values-ja/strings.xml` 、 `values-ar/strings.xml` などを作る
@@ -41,14 +46,14 @@
 * Q. 直書き箇所とかをLintで知ることができないか知りたい
 * Q. strings.xmlの管理の工夫を知りたい
 * Q. strings.xmlのソート
-* Q. translation editor
+* Q. translation editorの使いどころ
 * Q. 指定したlocaleのstringsを取得する方法は？
 * Q. 共通化すべきstringsは？ [ref](http://qiita.com/eggmobile/items/95062a44dba3d63d43da)
 
 
-### 翻訳する
+### [基本] 2. 翻訳する
 * Google翻訳
-* 外部サービスの紹介
+* 外部サービスの紹介（GENGO、単価、速さ、API）
 * Googleの公式サービスの紹介
 
 * Q. いいプラグインとかない？
@@ -56,14 +61,15 @@
 * Q. アラビア語を編集できないんだけど！
 
 
-### 数値の複数形に対応する
+### [ローカライズ] 3. 数値の複数形に対応する
 * 数字の修正（複数形の対応）
 * カンマ、ピリオドなど [ref](http://qiita.com/aqubi/items/36e24c2896321cd6df0f)
 
 * Q. 複数形が必要になる言語は？
+* Q. 複数形の表を用意する
 
 
-### 日付に対応する
+### [ローカライズ] 日付に対応する
 * 日付の表記
 * UTCとlocal時刻の変換
 
@@ -71,7 +77,7 @@
 * Q. 一番簡単なやり方は？
 
 
-### RTLに対応する
+### [ローカライズ] RTLに対応する
 * ~start、~endのattributesをつける
 * TextView、LinearLayout、RelativeLayout
 * 画像の反転
@@ -83,7 +89,7 @@
 * Q. ぶっちゃけやるべきなの？
 
 
-### 細かいデザインを調整する
+### [デザイン] 細かいデザインを調整する
 * 言語の長さの違い（改行？ellipsis？） [ref](http://qiita.com/hachi8833/items/4666638e930de65dcdef)
 * マルチバイト文字の行間
 
