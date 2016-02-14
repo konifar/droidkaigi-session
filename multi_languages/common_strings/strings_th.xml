@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">เปิด</string>
+    <string name="close">ใกล้</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="next">ต่อไป</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="back">กลับ</string>
+    <string name="edit">แก้ไข</string>
+    <string name="save">ประหยัด</string>
+    <string name="select">เลือก</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="loading">กำลังโหลด</string>
+    <string name="sending">กำลังส่ง</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="inquiry">การติดต่อ</string>
+    <string name="search">ค้นหา</string>
+    <string name="add">เพิ่ม</string>
+    <string name="others">คนอื่น ๆ</string>
+    <string name="email">อีเมล์</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="help">ความช่วยเหลือ</string>
+    <string name="delete">ลบ</string>
+</resources>

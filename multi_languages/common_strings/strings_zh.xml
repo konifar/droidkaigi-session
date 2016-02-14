@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">打開</string>
+    <string name="close">關閉</string>
+    <string name="ok">OK</string>
+    <string name="cancel">取消</string>
+    <string name="next">下一個</string>
+    <string name="yes">是的</string>
+    <string name="no">不</string>
+    <string name="back">返回</string>
+    <string name="edit">編輯</string>
+    <string name="save">保存</string>
+    <string name="select">選擇</string>
+    <string name="login">註冊</string>
+    <string name="logout">註銷</string>
+    <string name="loading">載入中</string>
+    <string name="sending">發送中</string>
+    <string name="setting">設置</string>
+    <string name="inquiry">聯繫</string>
+    <string name="search">搜尋</string>
+    <string name="add">追加</string>
+    <string name="others">其他</string>
+    <string name="email">電子郵件</string>
+    <string name="password">密碼</string>
+    <string name="help">幫助</string>
+    <string name="delete">刪除照片</string>
+</resources>

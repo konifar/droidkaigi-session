@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">فتح</string>
+    <string name="close">قريب</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="next">التالي</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="back">ظهر</string>
+    <string name="edit">تحرير</string>
+    <string name="save">حفظ</string>
+    <string name="select">اختر</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="loading">تحميل</string>
+    <string name="sending">إرسال</string>
+
+    <string name="setting">إعدادات</string>
+    <string name="inquiry">اتصال</string>
+    <string name="search">البحث</string>
+    <string name="add">إضافة</string>
+    <string name="others">أخرى</string>
+
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">دخول</string>
+
+    <string name="help">مساعدة</string>
+
+    <string name="delete">حذف</string>
+</resources>

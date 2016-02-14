@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">công khai</string>
+    <string name="close">Đóng cửa</string>
+    <string name="ok">OK</string>
+    <string name="cancel">hủy bỏ</string>
+    <string name="next">tiếp theo</string>
+    <string name="yes">vâng</string>
+    <string name="no">không</string>
+    <string name="back">lưng</string>
+    <string name="edit">chỉnh sửa</string>
+    <string name="save">tiết kiệm</string>
+    <string name="select">chọn</string>
+    <string name="login">đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="loading">Loading</string>
+    <string name="sending">Gửi</string>
+    <string name="setting">Thiết lập</string>
+    <string name="inquiry">Liên hệ</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="add">Thêm</string>
+    <string name="others">Khác</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="help">Trợ giúp</string>
+    <string name="delete">Xóa</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">terbuka</string>
+    <string name="close">Tutup</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="next">Seterusnya</string>
+    <string name="yes">Ya</string>
+    <string name="no">tiada</string>
+    <string name="back">Kembali</string>
+    <string name="edit">Edit</string>
+    <string name="save">Jimat</string>
+    <string name="select">Pilih</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Log Keluar</string>
+    <string name="loading">Sedang memuatkan</string>
+    <string name="sending">Menghantar</string>
+    <string name="setting">Tetapan</string>
+    <string name="inquiry">Hubungi</string>
+    <string name="search">Carian</string>
+    <string name="add">Tambah</string>
+    <string name="others">Lain-lain</string>
+    <string name="email">E-mel</string>
+    <string name="password">Kata laluan</string>
+    <string name="help">Bantuan</string>
+    <string name="delete">Padam</string>
+</resources>
