@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">Ouvrir</string>
+    <string name="close">proche</string>
+    <string name="ok">bien</string>
+    <string name="cancel">annuler</string>
+    <string name="next">suivant</string>
+    <string name="yes">oui</string>
+    <string name="no">aucun</string>
+    <string name="back">arrière</string>
+    <string name="edit">Modifier</string>
+    <string name="save">sauver</string>
+    <string name="select">sélectionner</string>
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+    <string name="loading">Chargement en cours</string>
+    <string name="sending">Envoi en cours</string>
+    <string name="setting">Paramètres</string>
+    <string name="inquiry">Contacter</string>
+    <string name="search">Rechercher</string>
+    <string name="add">Ajouter</string>
+    <string name="others">Autres</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="help">Aide</string>
+    <string name="delete">Effacer</string>
+</resources>

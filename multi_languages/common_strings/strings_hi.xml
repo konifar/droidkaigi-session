@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">खुला</string>
+    <string name="close">पास</string>
+    <string name="ok">अच्छा</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="next">अगला</string>
+    <string name="yes">हां</string>
+    <string name="no">नहीं</string>
+    <string name="back">वापस</string>
+    <string name="edit">संपादित करें</string>
+    <string name="save">बचाना</string>
+    <string name="select">चयन</string>
+    <string name="login">लॉगिन</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="loading">लोड हो रहा है</string>
+    <string name="sending">भेज रहा है</string>
+    <string name="setting">सेटिंग्स</string>
+    <string name="inquiry">संपर्क</string>
+    <string name="search">खोज</string>
+    <string name="add">जोड़ें</string>
+    <string name="others">दूसरे</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="help">मदद</string>
+    <string name="delete">हटाना</string>
+</resources>
