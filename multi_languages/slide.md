@@ -125,10 +125,6 @@ https://github.com/fastlane/screengrab
 > 置くだけで、端末の言語に応じて表示されます。
 
 
-# デフォルトの言語の設定
-* AndroidManifest
-
-
 # インドネシア語などの国コードに注意
 * × values-id
 * ○ values-in
