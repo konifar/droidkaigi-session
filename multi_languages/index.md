@@ -40,15 +40,11 @@
 
 ### [基本] 1. 翻訳ファイルをわけよう
 * `values/strings.xml` に分ける
-* デフォルトの言語はmanifestかgradleで指定する（推奨はen）
-* `values-ja/strings.xml` 、 `values-ar/strings.xml` などを作る
+* `values-ja/strings.xml`、 `values-ar/strings.xml` などを作る
 
 * Q. 直書き箇所とかをLintで知ることができないか知りたい
-* Q. strings.xmlの管理の工夫を知りたい
 * Q. strings.xmlのソート
 * Q. translation editorの使いどころ
-* Q. 指定したlocaleのstringsを取得する方法は？
-* Q. 共通化すべきstringsは？ [ref](http://qiita.com/eggmobile/items/95062a44dba3d63d43da)
 
 
 ### [基本] 2. 翻訳する
@@ -56,9 +52,12 @@
 * 外部サービスの紹介（GENGO、単価、速さ、API）
 * Googleの公式サービスの紹介
 
+* Q. strings.xmlの管理の工夫を知りたい
+* Q. 共通化すべきstringsは？ [ref](http://qiita.com/eggmobile/items/95062a44dba3d63d43da)
 * Q. いいプラグインとかない？
 * Q. 翻訳のフローは？
 * Q. アラビア語を編集できないんだけど！
+* Q. 指定したlocaleのstringsを取得する方法は？（入れない）
 
 
 ### [ローカライズ] 3. 数値の複数形に対応する
@@ -82,10 +81,11 @@
 * TextView、LinearLayout、RelativeLayout
 * 画像の反転
 * RTL markの挿入
+* ViewPager
 * インドアラビア数字について
 
 * Q. layout-arは必要？
-* Q. APIレベル17未満はどうするべき？
+* Q. APIレベル17未満はどうするべき？ <= はなさない
 * Q. ぶっちゃけやるべきなの？
 
 
